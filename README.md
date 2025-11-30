@@ -191,12 +191,9 @@ parlaklık yükselt      # Tüm mekanlara uygulanır
 - Yardım komutuyla mevcut komutları görüntüleyin
 - Seri monitörde gelen komutları kontrol edin
 
-
 ## 👤 Geliştirici
-
 **Beyza Nur Damar**
-- GitHub: [@beyzanurdamar](https://github.com/beyzanurdamar)
-- LinkedIn: [Beyza Nur Damar](https://www.linkedin.com/in/beyzanurdamar)
-
+- GitHub: [@beyzanurdamar](https://github.com/nurbeyzanur)
+- LinkedIn: [Beyza Nur Damar](https://linkedin.com/in/nurbeyzanurdamar)
 
 ⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
