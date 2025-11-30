@@ -196,7 +196,7 @@ parlaklık yükselt      # Tüm mekanlara uygulanır
 
 **Beyza Nur Damar**
 - GitHub: [@beyzanurdamar](https://github.com/nurbeyzanur)
-- LinkedIn: [Beyza Nur Damar](www.linkedin.com/in/nurbeyzanurdamar)
+- LinkedIn: [Beyza Nur Damar](linkedin.com/in/nurbeyzanurdamar)
 
 
 ⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
